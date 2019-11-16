@@ -2,17 +2,9 @@
 
 로컬에 정보를 저장한다
 
-# git config --global --edit
-
-# git config --edit
-
 # git add .
 
-모은 파일 올리깋
-
-# git status
-
-# gitignore
+모은 파일을 올린다
 
 # git add index.md
 
@@ -22,4 +14,18 @@
 
 파일을 주방에 붙임
 
-# it remote -v
+# [첫 작업시] git remote add [remote][git repository 주소]
+
+git
+
+# git push [remote][branch]
+
+# git config --global --edit
+
+# git config --edit
+
+# git status
+
+# gitignore
+
+# git remote -v
